@@ -9,4 +9,5 @@ Code is provided in five sections:
 3. Thresholding implementation to the image is provided.
 4. The Main function; related frames/ windows of obtained images to be defined are available.
 5. IEE process is mentioned, mask movement, and conditions applied.
+
 ....END....
